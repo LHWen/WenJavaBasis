@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="779c8b45-2fcf-40e7-8647-3bc99e45bef1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CycleExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -64,11 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CycleExpression.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CycleExpression.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CycleExpression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="13" selection-end-column="28" />
+            <state relative-caret-position="315">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MathClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MathClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -94,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/Employee.java" />
         <option value="$PROJECT_DIR$/src/EmployeeTest.java" />
         <option value="$PROJECT_DIR$/src/CycleExpression.java" />
+        <option value="$PROJECT_DIR$/src/MathClass.java" />
       </list>
     </option>
   </component>
@@ -156,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CycleExpression">
+  <component name="RunManager" selected="Application.MathClass">
     <configuration name="CycleExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CycleExpression" />
       <module name="WenJavaBasis" />
@@ -173,12 +183,9 @@
       <option name="MAIN_CLASS_NAME" value="JavaPuppyClass" />
       <module name="WenJavaBasis" />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathClass" />
       <module name="WenJavaBasis" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -196,19 +203,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.JavaEnum" />
       <item itemvalue="Application.JavaPuppyClass" />
       <item itemvalue="Application.EmployeeTest" />
       <item itemvalue="Application.CycleExpression" />
+      <item itemvalue="Application.MathClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathClass" />
         <item itemvalue="Application.CycleExpression" />
         <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.JavaPuppyClass" />
         <item itemvalue="Application.JavaEnum" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -223,12 +230,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536025879637</updated>
       <workItem from="1536025887402" duration="5595000" />
-      <workItem from="1536138639067" duration="1325000" />
+      <workItem from="1536138639067" duration="2027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6920000" />
+    <option name="totallyTimeSpent" value="7622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="458" y="26" width="1570" height="942" extended-state="0" />
@@ -244,7 +251,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289941" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289941" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
@@ -365,8 +372,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CycleExpression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="13" selection-end-column="28" />
+        <state relative-caret-position="315">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MathClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
