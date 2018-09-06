@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="779c8b45-2fcf-40e7-8647-3bc99e45bef1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,11 +55,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JavaArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
               <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaFunction.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -89,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/JavaString.java" />
         <option value="$PROJECT_DIR$/src/JavaStringBuffer.java" />
         <option value="$PROJECT_DIR$/src/JavaArray.java" />
+        <option value="$PROJECT_DIR$/src/JavaFunction.java" />
       </list>
     </option>
   </component>
@@ -102,10 +112,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
+    <option name="x" value="65" />
     <option name="y" value="23" />
     <option name="width" value="1570" />
-    <option name="height" value="942" />
+    <option name="height" value="962" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -151,13 +161,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaArray">
-    <configuration name="CycleExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CycleExpression" />
-      <module name="WenJavaBasis" />
-    </configuration>
+  <component name="RunManager" selected="Application.JavaFunction">
     <configuration name="JavaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaArray" />
+      <module name="WenJavaBasis" />
+    </configuration>
+    <configuration name="JavaFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFunction" />
       <module name="WenJavaBasis" />
     </configuration>
     <configuration name="JavaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -188,19 +198,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.CycleExpression" />
       <item itemvalue="Application.MathClass" />
       <item itemvalue="Application.JavaString" />
       <item itemvalue="Application.JavaStringBuffer" />
       <item itemvalue="Application.JavaArray" />
+      <item itemvalue="Application.JavaFunction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaFunction" />
         <item itemvalue="Application.JavaArray" />
         <item itemvalue="Application.JavaStringBuffer" />
         <item itemvalue="Application.JavaString" />
         <item itemvalue="Application.MathClass" />
-        <item itemvalue="Application.CycleExpression" />
       </list>
     </recent_temporary>
   </component>
@@ -216,15 +226,15 @@
       <updated>1536025879637</updated>
       <workItem from="1536025887402" duration="5595000" />
       <workItem from="1536138639067" duration="2027000" />
-      <workItem from="1536201642640" duration="6824000" />
+      <workItem from="1536201642640" duration="7909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14446000" />
+    <option name="totallyTimeSpent" value="15531000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="23" width="1570" height="942" extended-state="0" />
+    <frame x="65" y="23" width="1570" height="962" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -237,7 +247,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289941" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289941" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
@@ -448,6 +458,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
         </state>
       </provider>
     </entry>
