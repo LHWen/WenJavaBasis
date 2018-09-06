@@ -13,7 +13,7 @@ public class CycleExpression {
         do {
             System.out.println("value of t : " + t);
             t++;
-        }while (t < 20);
+        } while (t < 20);
 
         for (int i = 1; i < 10; i++) {
             System.out.println("value of t : " + i);
