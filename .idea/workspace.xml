@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="779c8b45-2fcf-40e7-8647-3bc99e45bef1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnimalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MammalInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -105,39 +104,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AbstractDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AbstractDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsufficientFundsException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InsufficientFundsException.java">
+      <file leaf-file-name="AnimalInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AnimalInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-              <folding>
-                <element signature="e#300#301#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckingAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CheckingAccount.java">
+      <file leaf-file-name="MammalInt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MammalInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="285">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,6 +183,8 @@
         <option value="$PROJECT_DIR$/src/AbstractClass.java" />
         <option value="$PROJECT_DIR$/src/AbstractDemo.java" />
         <option value="$PROJECT_DIR$/src/Salary.java" />
+        <option value="$PROJECT_DIR$/src/AnimalInterface.java" />
+        <option value="$PROJECT_DIR$/src/MammalInt.java" />
       </list>
     </option>
   </component>
@@ -200,7 +198,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="164" />
+    <option name="x" value="76" />
     <option name="y" value="23" />
     <option name="width" value="1570" />
     <option name="height" value="962" />
@@ -249,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractDemo">
+  <component name="RunManager" selected="Application.MammalInt">
     <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractDemo" />
       <module name="WenJavaBasis" />
@@ -258,12 +256,12 @@
       <option name="MAIN_CLASS_NAME" value="BankDemo" />
       <module name="WenJavaBasis" />
     </configuration>
-    <configuration name="JavaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaArray" />
-      <module name="WenJavaBasis" />
-    </configuration>
     <configuration name="JavaFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaFunction" />
+      <module name="WenJavaBasis" />
+    </configuration>
+    <configuration name="MammalInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MammalInt" />
       <module name="WenJavaBasis" />
     </configuration>
     <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -286,19 +284,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.JavaArray" />
       <item itemvalue="Application.JavaFunction" />
       <item itemvalue="Application.BankDemo" />
       <item itemvalue="Application.Overloading" />
       <item itemvalue="Application.AbstractDemo" />
+      <item itemvalue="Application.MammalInt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MammalInt" />
         <item itemvalue="Application.AbstractDemo" />
         <item itemvalue="Application.Overloading" />
         <item itemvalue="Application.BankDemo" />
         <item itemvalue="Application.JavaFunction" />
-        <item itemvalue="Application.JavaArray" />
       </list>
     </recent_temporary>
   </component>
@@ -317,15 +315,15 @@
       <workItem from="1536201642640" duration="7909000" />
       <workItem from="1536284146018" duration="3348000" />
       <workItem from="1536308606395" duration="2028000" />
-      <workItem from="1536543474025" duration="5143000" />
+      <workItem from="1536543474025" duration="8442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26050000" />
+    <option name="totallyTimeSpent" value="29349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="23" width="1570" height="962" extended-state="0" />
+    <frame x="219" y="404" width="1570" height="962" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -338,12 +336,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3283237" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3283237" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24018325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24018325" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -372,28 +370,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CheckingAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BankDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
@@ -808,8 +784,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AnimalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MammalInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
