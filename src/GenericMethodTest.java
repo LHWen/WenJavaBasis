@@ -22,7 +22,7 @@ public class GenericMethodTest {
         System.out.println("\n双精度型数组元素:");
         printArray(doubleArr);
 
-        System.out.println("\n字符型数组元素：");
+        System.out.println("\n字符型数组元素:");
         printArray(charArr);
     }
 }
